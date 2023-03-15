@@ -19,15 +19,6 @@
         </item>
     </plurals>
 
-<!--    <plurals name="chapter_count_new">-->
-<!--        <item quantity="one">-->
-<!--          1 Chapter-->
-<!--        </item>-->
-<!--        <item quantity="other">-->
-<!--          %s Chapters-->
-<!--        </item>-->
-<!--    </plurals>-->
-
     <plurals name="chapter_count_new">
         <item quantity="one">
           1 Chapter in %2$s and %3$s
