@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SandboxApplication</string>
+    <string name="hello_world">%1$s to the %2$s</string>
+    <plurals name="story_count">
+        <item quantity="one">
+          1 Story
+        </item>
+            <item quantity="other">
+          %s Stories
+        </item>
+    </plurals>
+
+</resources>
